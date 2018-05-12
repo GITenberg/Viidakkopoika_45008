@@ -1,0 +1,46 @@
+_repo: Viidakkopoika_45008
+_version: 0.1.0
+alternative_title: The jungle book. Finnish
+contributor:
+  translator:
+    agent_name: Hämeen-Anttila, Väinö
+    aliases:
+    - Hameen-Anttila, Vaino
+    - Hämeen-Anttila, V.
+    gutenberg_agent_id: '43032'
+    url: http://www.gutenberg.org/2009/agents/43032
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, Joseph Rudyard
+    - Kipling, R. (Rudyard)
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+description: Translation of "The Jungle Book"
+gutenberg_issued: '2014-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45008'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- Fiction'
+- !lcsh 'Jungles -- Fiction'
+- !lcsh 'Mowgli (Fictitious character) -- Fiction'
+- !lcsh 'Adventure stories, English'
+- !lcsh 'Animals -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Feral children -- Fiction'
+- !lcsh 'Jungle animals -- Fiction'
+- !lcsh 'Short stories'
+title: Viidakkopoika
+url: http://www.gutenberg.org/ebooks/45008
