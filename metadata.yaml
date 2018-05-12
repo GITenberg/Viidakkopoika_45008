@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/132
     wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
 description: Translation of "The Jungle Book"
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45008#Viidakkopoika
 gutenberg_issued: '2014-02-25'
 gutenberg_type: Text
 identifiers:
